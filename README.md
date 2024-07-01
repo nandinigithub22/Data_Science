@@ -23,21 +23,33 @@ quality of data itself, so it is very important to maintain data quality. Wrangl
 just about wrangling, but it’s as important as the actual analysis process is done in the
 process of analyzing your data, it’s a key part of your analysis.
 
-*NEED FOR WRANGLING :
-Wrangling the data is crucial, yet it is considered as a backbone to the entire analysis
-part. The main purpose of data wrangling is to make raw data usable. In other words,
-getting data into a shape. On average, data scientists spend 75% of their time wrangling
-the data, which is not a surprise at all. The important needs of data wrangling include,
- The quality of the data is ensured.
- Supports timely decision-making and fastens data insights.
- Noisy, flawed, and missing data are cleaned.
- It makes sense to the resultant dataset, as it gathers data that acts as a preparation
-stage for the data mining process.
- Helps to make concrete and take a decision by cleaning and structuring raw data
-into the required format.
- Raw data are pieced together to the required format.
- To create a transparent and efficient system for data management, the best
-solution is to have all data in a centralized location so it can be used in improving
-compliance.
- Wrangling the data helps make decisions promptly and helps the wrangler clean,
-enrich, and transform the data into a perfect picture.
+Data science plays a crucial role in many industries and has a significant impact on various aspects of our lives. Here are some key reasons why data science is important:
+
+Informed Decision Making: Data science enables organizations to make better decisions by providing insights derived from data. This leads to more accurate forecasting, improved strategy, and enhanced business performance.
+
+Personalization: It allows for personalized experiences in sectors such as marketing, healthcare, and retail. By analyzing customer data, businesses can tailor their products, services, and communication to individual preferences and behaviors.
+
+Efficiency and Automation: Data science helps automate repetitive tasks and optimize processes. For example, predictive maintenance in manufacturing can reduce downtime and costs by predicting when equipment will fail.
+
+Competitive Advantage: Companies that effectively utilize data science gain a competitive edge by understanding market trends, consumer behavior, and operational efficiencies better than their competitors.
+
+Risk Management: Data science is essential in identifying and mitigating risks. In finance, it helps in detecting fraudulent transactions, assessing credit risks, and managing investment portfolios.
+
+Innovation: By uncovering patterns and trends in data, data science drives innovation. It leads to the development of new products, services, and solutions that address unmet needs or improve existing offerings.
+
+Healthcare Advancements: In healthcare, data science contributes to better diagnosis, treatment plans, and patient outcomes. It helps in analyzing medical records, predicting disease outbreaks, and personalizing patient care.
+
+Scientific Research: Data science accelerates scientific research by enabling the analysis of large datasets, which can lead to new discoveries and advancements in various fields, from genetics to climate science.
+
+Public Policy and Governance: Governments use data science to make informed policy decisions, improve public services, and address social issues. For instance, data analysis can help in urban planning, crime prevention, and disaster response.
+
+Enhanced Customer Insights: Businesses gain deeper insights into customer behavior and preferences, allowing them to improve customer satisfaction, loyalty, and retention.
+
+Overall, data science is a powerful tool that transforms data into actionable insights, driving growth, efficiency, and innovation across multiple domains.
+
+
+
+
+
+
+
